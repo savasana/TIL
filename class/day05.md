@@ -82,7 +82,7 @@ Aliexpress mobile site homescreen add - works just like an app
 + Data Layer
 
 ---
-###Framework
+### Framework
 복잡한 절차를 하나의 기능으로 함축시켜 자동화 시켜주는 역할
 
 + AngularJS
@@ -90,12 +90,12 @@ Aliexpress mobile site homescreen add - works just like an app
 + Vue.js 
 
 ---
-##Database
+## Database
 + [RDBMS](https://en.wikipedia.org/wiki/Relational_database_management_system) : MySQL,..
 + noSQL : MongoDB,...
 
 ---
-##URI, URL, URN
+## URI, URL, URN
 
     http://www.google.com/post/how-to
     프로토콜       도메인       패쓰 파일명
@@ -106,17 +106,17 @@ Aliexpress mobile site homescreen add - works just like an app
 - github과 연결된 public폴더 는 root page -> 주소를 무조건 public에 index.html 을 참조. 없으면 에러!
 
 ---
-##API
+## API
 - 하드웨어랑 어플리케이션의 소통을 도와주는 도구
 - **WebAPI** 웹서버,브라우저를 위한 API
 
 ---
-##xml
+## xml
 - 느리고 불안정 , archive에는 유용
 - podcast, soundcloud
 
 ---
-###REST API
+### REST API
 - HTTP URI + HTTP method
 - **스펙없이** 기존의 HTTP이용해 요정 처리가능
 - xml의 단점을 보안할 수 있음
@@ -129,7 +129,7 @@ Aliexpress mobile site homescreen add - works just like an app
                                     쿼리 
 ```
 ---
-###GraphQL
+### GraphQL
 - send queries to get exactly the data you’re looking for in one request
 - legacy를 살려서 작업할 수 있다.
 
