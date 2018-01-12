@@ -1,6 +1,6 @@
 # day 05
 
-##tl;dr : week summary
+## tl;dr : week summary
 - Quicksort
 - Stack / Queue
 - TCP / UDP (가래떡)
@@ -16,6 +16,9 @@
     + 주소로 요청을 할 수 있다.
     + 표준이 없고 method 4개뿐
 
+
+
+---
 
 ## Teacher says
 >Hand Coding!
