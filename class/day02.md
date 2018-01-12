@@ -130,7 +130,7 @@ vi hello.txt
 
 ![](Screen%20Shot%202018-01-10%20at%2012.28.09.png)
 new repo 만들고 주소 복사
-`https://github.com/ohdayoda/first-repo.git`
+`https://github.com/username/first-repo.git`
 
 `dev/first-repo` -> 여기에 git 실행
 **github repo 이름과 로컬 폴더(first-repo) 이름이 같아야 편리**
@@ -184,9 +184,9 @@ Git Setting with Github
 3. `git init` 으로 git 실행
 4. `git add thisfile.txt`  git에 파일을 올린다(로컬)
 5. `git commit --m "add new file"` git에 레이블링을 하고 저장(로컬)
-6. `git config —global user.name “ohdayoda”` -> 처음의 경우 아이디 세팅
-`git config —global user.email “ohdayoda@gmail.com”`
-7. `git remote add origin https://github.com/ohdayoda/first-repo.git`
+6. `git config —global user.name "username"` -> 처음의 경우 아이디 세팅
+`git config —global user.email “username@gmail.com”`
+7. `git remote add origin https://github.com/<username>/first-repo.git`
 -> github 서버와 연결
 8. `git push origin master` -> git을 올린다.  
 
@@ -233,10 +233,10 @@ Git Setting with Github
 
 - - - -
 ### GitHub blog 만들기
-1. repo name : ohdayoda.github.io
-2. ohdayoda.github.io
+1. repo name : <username>.github.io
+2. <username>.github.io
 
-( jekyll , hacksaw 다른 툴 이용해서 블로그 쉽게 만들 수 있음)
+( jekyll, hexo, hugo 다른 툴 이용해서 블로그 쉽게 만들 수 있음)
 
 
 - - - -
