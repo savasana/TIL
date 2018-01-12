@@ -1,13 +1,10 @@
 # day 01
-#fastcamp
 
-### 최우영 선생님
-강의자료 : GitHub - handout 폴더에 매 수업자료
-github.com/ulgoon/wps-se
-[강의자료](github.com/ulgoon/wps-se)
+### link
+- 최우영 선생님 [강의자료](github.com/ulgoon/wps-se)
+- [초보몽키의 개발공부로그](wayhome25.github.io)
+- ::매일매일 글 쓰고 정리하는것 중요.::
 
-초보몽키의 개발공부로그 wayhome25.github.io
-::매일매일 글 쓰고 정리하는것 중요.::
 
 컴퓨터 설계 -> 전자 공학
 컴퓨터의 활용 -> 컴퓨터 공학 CS
