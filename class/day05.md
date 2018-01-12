@@ -1,20 +1,20 @@
 # day 05
 
 ##tl;dr : week summary
-    + Quicksort
-    + Stack / Queue
-    + TCP / UDP (가래떡)
-    + OSI 7 Layers
-    + Coockie
-        + 브라우저상에 남는 것
-    + Session
-        + 몇분동안 유지해서 정보를 잡아두는 것
-        + 연속적인 정보를 쌓기위해 쓰는 것
-    + Client vs Server
-    + URI / URL / URN 
-    + RESTFul : URI + Method 
-        + 주소로 요청을 할 수 있다.
-        + 표준이 없고 method 4개뿐
+- Quicksort
+- Stack / Queue
+- TCP / UDP (가래떡)
+- OSI 7 Layers
+- Coockie
+    + 브라우저상에 남는 것
+- Session
+    + 몇분동안 유지해서 정보를 잡아두는 것
+    + 연속적인 정보를 쌓기위해 쓰는 것
+- Client vs Server
+- URI / URL / URN 
+- RESTFul : URI + Method 
+    + 주소로 요청을 할 수 있다.
+    + 표준이 없고 method 4개뿐
 
 
 ## Teacher says
