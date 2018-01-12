@@ -24,7 +24,7 @@ Power line Networking : 기존 전력선을 가지고 네트워킹 해보자
 
 
 submarine cale map
-/대륙간 연결 해저 테이블. 
+대륙간 연결 해저 테이블. 
 /많은 회사들이 개발해 (구글, 페이스북, 아마존)
 
 
