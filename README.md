@@ -1,12 +1,20 @@
-# Today I Learned...
+## Today I Learned...
 
-**TIL** is my personal daily log repo.
-There's no END in learning. We must create.
-The contents will be added through out the course of learning.
+A collection of things I've learned in my daily web development study.
+
 
 **Table of Content**
 
-+ **class : Front-End Developer School daily note takings**
-+ **cs50 : Harvard CS50 MOOC self study   [link](https://youtu.be/at6ye_ZW1wQ)**
-+ **post : My personal study log**
+**class**
+- note takings from Front-End Developer School lectures
+- file rule : lecture01.md
+
+**post**
+- things that I learned today from web dev to everyday life
+- file rule : 20180114-title.md
+
+
+
+
+
 
