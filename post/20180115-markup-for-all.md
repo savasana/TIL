@@ -34,6 +34,13 @@ html을 구조를 짤때는, 보이는 디자인 중심으로 생각하지말고
 
 ## Check your validation often
 When writing HTML or CSS, check your file’s validity as often as possible. 
-For HTML Validation - [The W3C Markup Validation Service](http://validator.w3.org/#validate_by_upload) 
-For CSS Validation - [The W3C CSS Validation Service](http://jigsaw.w3.org/css-validator/)
+- For HTML Validation - [The W3C Markup Validation Service](http://validator.w3.org/#validate_by_upload) 
+- For CSS Validation - [The W3C CSS Validation Service](http://jigsaw.w3.org/css-validator/)
 
+## BEM Method
+
+**BEM (Block, Element, Modifier)** is a component-based approach to web development. The idea behind it is to divide the user interface into independent blocks. This makes interface development easy and fast even with a complex UI, and it allows reuse of existing code without copying and pasting.
+
+#### related links
+- [BEM Method](https://en.bem.info/methodology/quick-start/)
+- [getBem.com](http://getbem.com/naming/)
