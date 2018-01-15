@@ -5,7 +5,8 @@
 
 
 ## Web technologies for all
-**Accessibility & Web Standards = BETTER WORLD**
+Accessibility & Web Standards = BETTER WORLD
+웹표준과 접근성 그리고 호환성을 더 나은 세계를 향한 첫걸음.
 
 ## Don't just use <div>
 Be careful when using **div**. Div has no actual semantic meaning itself so use it when no other option is available or when grouping others (like wrapper).
