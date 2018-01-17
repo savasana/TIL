@@ -1,9 +1,10 @@
 ## Today I Learned...🌚 
 
+🙂🤗🤔🙂🤗🤔🙂🤗🤔
 
-🙂🤗🤩🤔🤨😐
 A collection of things I've learned in my daily web development study.
-오늘 개발을 공부하며 배운것들 
+
+오늘 배운것들 저장소
 
 **Table of Content**
 
@@ -14,7 +15,7 @@ A collection of things I've learned in my daily web development study.
 **post**
 - things that I learned today from web dev to everyday life
 - file rule : 20180114-title.md
-- 오늘 배운것들 자유롭게 날것 파일
+- 오늘 배운것들 자유롭게 날것그대로
 
 
 
