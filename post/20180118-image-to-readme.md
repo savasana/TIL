@@ -6,7 +6,7 @@ Today I learned how to put images to your markdown text file. 나의 md 파일�
 
 `![alt tag](http://domain.com/path/to/img.png "Description goes here")`
 
-You can use the image from your own repo or webpage link of the image is available.
+You can use the image from your own repo or just simply use image url link.
 
 voalá!!! super duper easy.
 
