@@ -1,4 +1,5 @@
 @charset "utf-8";
+@import url("https://cdnjs.cloudflare.com/ajax/libs/normalize/7.0.0/normalize.min.css");
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 a, abbr, acronym, address, big, cite, code,
@@ -17,49 +18,95 @@ time, mark, audio, video {
 	border: 0;
 	font-size: 100%;
 	font: inherit;
-	vertical-align: baseline;
+    vertical-align: baseline;
+    list-style: none;
 }
 table {
     border-collapse: collapse;
     /*표에서 셀들이 겹쳐져서 1px보더가 2px되는것을 방지*/
 	border-spacing: 0;
 }
-*, *::before, *::after {
-    box-sizing: border-box;
+html {
+  font-family: 'Lato', sans-serif;
+  font-size: 14px;
 }
-body {
-    font-family: 'Lato', sans-serif;
-    font-size: 20px;
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
 }
+
 a {
-    color: inherit;
-    text-decoration: none;
+  color: inherit;
+  text-decoration: none;
 }
-.header {
-    width: 1000px;
-    margin: 0 auto;
-    position: relative;
-}
-.nav__hidden-fot-reader {
-    display: none;
-}
-.logo {
-    position: absolute;
-}
-.logo a {
-    font-size: 2rem;
-    font-weight: bold;
-    color: white;
-}
-.nav {
-    background-color: salmon;
-}
-.nav__member {
-    background-color: green;
-}
-.main-menu {
-    background-color: pink;
-}
+
 .wrapper {
-    background-color: skyblue;
+  width: 600px;
+  margin: 0 auto;
+  height: 400px;
+  background-color: lightyellow;
+}
+
+.header {
+  position: relative;
+  background-color: salmon;
+  padding: 0 10px 0 10px;
+}
+
+.logo {
+  position: absolute;
+  font-size: 2rem;
+  font-weight: bold;
+  top: 6px;
+  left: 20px;
+}
+
+.navigation {}
+
+.nav-menu {
+  margin-left: 130px;
+}
+
+.nav-menu::after {
+  content: "";
+  clear: both;
+  display: block;
+}
+
+.nav-menu li {
+  float: left;
+  position: relative;
+  margin-left: 10px;
+}
+
+.nav-menu li:hover::after {
+  content: "";
+  display: block;
+  border-top: 4px solid black;
+  background-color: yellow;
+  margin-top: -4px;
+}
+
+.nav-menu li a {
+  display: inline-block;
+  line-height: 50px;
+  padding: 0 20px;
+  height: 50px
+}
+
+.skip-nav {
+  display: none;
+  /*not the right way!*/
+}
+
+.readable-hidden {
+  background-color: green;
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  clip: rect(0, 0, 0, 0);
+  overflow: hidden;
+  visibility: hidden;
 }
