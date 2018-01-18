@@ -17,6 +17,11 @@ A collection of things I've learned in my daily web development study.
 - file rule : 20180114-title.md
 - 오늘 배운것들 자유롭게 날것그대로
 
+**code**
+- HTML markup, css, layout practice folder
+- folder rule : menu, flexbox, ... 
+
+🙂🤗🤔🙂🤗🤔🙂🤗🤔
 
 
 
