@@ -5,26 +5,45 @@ Funway to learn basics of Git : [GIT-IT](https://github.com/jlord/git-it-electro
 ### Tips
 
 `$ git status`   check status
+
 `$ git diff`   view changes to files
+
 `$ git add readme.md`	add a file’s changes to be committed
+
 `$ git commit -m "your message"` commit the changes
+
 `$ git remote add origin <url>`   origin could me other name
+
 `$ git remote set-url <remote name> <url>` 	set a URL to a remote
-`$ git pull <remote name> <branch name>`
+
+`$ git pull <remote name> <branch name>` 
+
 `$ git remote -v`	view remote addresses
+
 `$ git push <remote name> <branch>`
+
 `$ git checkout -b <branch-name>` create and switch to a branch (-b : branch)
+
 `$ git branch <branch-name>` create new branch
+
 `$ git checkout <branch-name>` move onto a branch
+
 `$ git branch` list the branches
-`$ git branch -m <new-branch-name>` rename a branch you're
+
+`$ git branch -m <new-branch-name>` rename a branch you're in
+
 `$ git merge <branchname>`
+
 `$ git branch -d <branch-name>` delete a local branch
+
 `$ git push <remote-name> --delete <branchname>` delete a remote branch
+
 `$ git pull <remotename> <branchname>` pull from a remote branch
 
 **readme.md** explains what the project is, how to use it, and so on.
+
 **.gitignore** is a list of files that Git should not track, for instance, files with passwords.
+
 
 ### how git works
 ![how git works-screenshot](img/gitit01.png "gitit screenshot")
