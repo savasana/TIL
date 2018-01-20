@@ -1,4 +1,4 @@
-## Book Lists
+## Book List
 - 읽은 책 리스트 (since 2016)
 - 인상깊은 책은 따로 노트로 정리하기
 

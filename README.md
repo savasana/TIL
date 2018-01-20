@@ -2,26 +2,8 @@
 
 🙂🤗🤔🙂🤗🤔🙂🤗🤔
 
-A collection of things I've learned in my daily web development study.
+A collection of things I've learned in my everyday life.
 
-
----
-### Table of Content
-
-### book
-- book note
-- 2016년부터 읽은 책 기록
-
-### class
-- note takings from Front-End Developer School lectures
-- 온,오프라인 강의 노트
-
-### post
-- things that I learned today from web dev to everyday life
-- 오늘 알게된것, 배운것 자유롭게 기록
-
-### code
-- HTML markup, css, layout practice folder
 
 
 
