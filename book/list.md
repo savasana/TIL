@@ -17,6 +17,7 @@
 
 
 ## 2017
+
 - [Daniel Kahneman / Thinking, Fast and Slow](https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman-ebook/dp/B00555X8OA/ref=sr_1_3?s=digital-text&ie=UTF8&qid=1516449460&sr=1-3&keywords=thinking+fast+and+slow)
 - 마르쿠스 아우렐리우스 / 명상록 
 - Tim Ferriss / The 4hour work week (Audiobook) 
@@ -97,7 +98,7 @@
 - 나는 설탕없이 살기로 했다
 - 알베르 카뮈/ 페스트
 - 빅터 프랭클 / 죽음의 수용소에서
-- 에픽테토스의 인생을 바라보는 지혜
+- 에픽테토스 / 에픽테토스의 인생을 바라보는 지혜
 - 카렌 암스트롱 / 스스로깨어난자 붓다
 - 세스 고딘 / 시작하는 습관
 - 브리엔 브라운 / 불완전함의 선물
