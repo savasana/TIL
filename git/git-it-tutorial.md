@@ -57,5 +57,7 @@ Funway to learn basics of Git : [GIT-IT](https://github.com/jlord/git-it-electro
 
 ### Result
 튜토리얼을 무사히 따라 마치면 이렇게 실제 사이트에 나의 아이디가 추가된다.
+[Git it - patchwork](http://jlord.us/patchwork/)
+
 ![gitit-result-screenshot](img/gitit04.png "gitit screenshot")
 
