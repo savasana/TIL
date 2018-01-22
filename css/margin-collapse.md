@@ -8,7 +8,7 @@ Box B - margin top : 60px
 
 ![margin-collapse](images/margin-collapse.png "margin collapse explain")
 
-It’s easy to think that the outcome would be 80px but it’s not correct. The result margin is 60px.
+It’s easy to think that the outcome would be 80px but it’s not correct. The resulting margin is 60px.
 **The largest margin stays and smallest margin collapsed to 0.**
 **Max(top margin, bottom margin)**
 
