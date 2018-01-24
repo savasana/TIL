@@ -1,4 +1,6 @@
 # CS50 Lecture11
+>Harvard CS50 Lecture11
+---
 ## MVC
 - Model View Controller
 - software architectural design pattern
@@ -48,7 +50,9 @@ Function without name is called anonymous function.  The parenthesis  `()` after
 
 ### Google Maps 
 If you move around your mouse on the screen, delay happens. (gray grid appears)
-why delay? request information in a real short amount of time (and it is called AJAX)
+why delay? it request informations in a real short amount of time (and it is called AJAX)
+
+**needed to comeback for more info here**
 
 
 ### JSON
@@ -62,7 +66,7 @@ why delay? request information in a real short amount of time (and it is called 
 
 **synchronous code**
 - `C` is synchronous code  
-- works line by line , it means if one line takes a while it is going to just hang there til it’s over.
+- works line by line , it means if one line takes a while it's going to just hang there til it’s over.
 
 **asynchronous code**
 - `Javascript`  `flask` is asynchronous code 
