@@ -13,7 +13,7 @@ A collection of things I've learned in my everyday life.
 
 
 ## table of contents
-
+추가된 순서대로..
 
 - book
   - [book list](./book/book-list.md) 
@@ -34,3 +34,4 @@ A collection of things I've learned in my everyday life.
   - [reset](./css/reset.md)
   - [skip to content](./css/skip-to-content.md)
   - [margin collapse](./css/margin-collapse.md)
+  - [sass shop](./css/sass-shop.md)
