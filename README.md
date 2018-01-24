@@ -24,6 +24,7 @@ A collection of things I've learned in my everyday life.
   - [FCS lecture 3](./class/lecture03.md) 
   - [FCS lecture 4](./class/lecture04.md) 
   - [FCS lecture 5](./class/lecture05.md) 
+  - [CS50 lecture 11 Javascript](./class/cs50-lecture11.md)
 - html
   - [semantic markup](./html/semantic-markups.md) 
   - [form](./html/form.md) 
