@@ -36,3 +36,4 @@ A collection of things I've learned in my everyday life.
   - [skip to content](./css/skip-to-content.md)
   - [margin collapse](./css/margin-collapse.md)
   - [sass shop](./css/sass-shop.md)
+  - [pseudo element's content](./css/pseudo-content.md)
