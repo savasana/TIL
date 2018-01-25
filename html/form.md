@@ -1,5 +1,7 @@
 # form
 
+> Form is a component of a Web page that has form controls (text fields, buttons, checkboxes, range controls, or color pickers)
+
 
 ```html
 <form>
@@ -133,5 +135,7 @@ represents a clickable button, which can be used in forms, or anywhere in a docu
 
 ---
 ### links
+
+[W3C 4.10. Forms](https://www.w3.org/TR/2017/REC-html52-20171214/sec-forms.html#sec-forms)
 [<input> | MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input)
 [<button> | MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/button)
