@@ -19,6 +19,7 @@ My main goals are to become a developer, a better designer and to live a healthy
 |           | CS50 Week 9 Shorts | [CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)  |
 |2018-01-25 | 100-days-of-code Day01| - |
 |           |  Read `FORM` on W3C Recommendation |[HTML 5.2](https://www.w3.org/TR/html/) |
+|2018-01-26|  100-days-of-code Day02|-|
 ---
 
 
