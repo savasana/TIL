@@ -1,15 +1,15 @@
 ## Podcasts App
 
-- Overcast : smart speed and voice boost is really awesome. hard to search certain eposode.
+- [Overcast](https://overcast.fm/) : smart speed and voice boost is really awesome. hard to search certain eposode.
 - [Podcast Web App](http://podcastapp.ehubsoft.net/) : listen podcasts on your internet browser
 
 ---
 
 ## Podcasts Lists
 
-#### My Go-To daily podcasts
+### My Go-To daily podcasts
 - Hidden Brain
-- The Joe Rogan Experience
+- **The Joe Rogan Experience**
 - 99% Invisible
 - Freakonomics Radio
 - How I Built This
@@ -22,9 +22,14 @@
 - Oprah's SuperSoul
 - Tara Brach
 
-#### Best Podcasts Series
-- Revisionist History / Malcom Gladwell
-- Creating Our Own Lives (C.O.O.L.)
+### happiness and well being
+- Optimal Living Daily Podcast
+- The Minimalists
+- Happier Podcast
+
+### Best Podcasts Series
+- Revisionist History / Malcom Gladwell(one of my favorite writers)
+- Creating Our Own Lives (C.O.O.L.) / from On Being production
 - Invisibilia
 
 ### When I need some information
