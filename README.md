@@ -2,17 +2,13 @@
 
 🙂🤗🤔🙂🤗🤔🙂🤗🤔
 
-A collection of things I've learned in my everyday life.
-
-
-
+A collection of things I've learned in my journey to becoming an awesome devloper.
 
 
 
 ---
 
-
-## table of contents
+## daily notes 
 추가된 순서대로..
 
 - book
@@ -39,7 +35,16 @@ A collection of things I've learned in my everyday life.
   - [sass shop](./css/sass-shop.md)
   - [pseudo element's content](./css/pseudo-content.md)
   - [cacl() function](./css/calc.md) 
--tips
+- tips
   - [podcasts recommendation](./tips/favorite-podcasts.md)
-  - [chrome dev tool with blank page](./tips/chrome-blank.md)
+  - [chrome dev tool with blank page](./tips/chrome-blank.md) 
 
+
+---
+
+## my daily progress 
+my daily extra-study list
+- [progress.md](./progress.md)
+
+
+---
