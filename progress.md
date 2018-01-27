@@ -23,6 +23,7 @@ My main goals are to become a developer, a better designer and to live a healthy
 |            |  Book : YDKJS Up & Going | [YDKJS](https://github.com/getify/You-Dont-Know-JS/) |
 | 2018-01-27 |  Book : YDKJS Up & Going | - |
 |            |  Poiema: | [Poiemaweb](http://poiemaweb.com/)|
+|            |  100-days-of-code Day03| [codepen](https://codepen.io/yogicat/full/oEvgaR)|
 ---
 
 
