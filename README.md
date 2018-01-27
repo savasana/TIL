@@ -29,7 +29,8 @@ A collection of things I've learned in my everyday life.
   - [semantic markup](./html/semantic-markups.md) 
   - [form](./html/form.md) 
 - git
-  - [github tutorial:git it](./git/git-it-tutorial.md) 
+  - [github tutorial:git it](./git-and-editors/git-it-tutorial.md) 
+  - [vscode shortcut for macOS](./git-and-editors/vscode-shorcuts.md)
 - css
   - [box model](./css/box-model.md)
   - [reset](./css/reset.md)
@@ -38,3 +39,7 @@ A collection of things I've learned in my everyday life.
   - [sass shop](./css/sass-shop.md)
   - [pseudo element's content](./css/pseudo-content.md)
   - [cacl() function](./css/calc.md) 
+-tips
+  - [podcasts recommendation](./tips/favorite-podcasts.md)
+  - [chrome dev tool with blank page](./tips/chrome-blank.md)
+
