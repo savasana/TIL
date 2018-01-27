@@ -45,6 +45,19 @@
 
 ```
 
+
+```html
+
+<fieldset>
+  <legend>Mail Account</legend>
+  <p><label>Name: <input type="text" name="fullname" placeholder="John Ratzenberger"></label></p>
+  <p><label>Address: <input type="email" name="address" placeholder="john@example.net"></label></p>
+  <p><label>Password: <input type="password" name="password"></label></p>
+  <p><label>Description: <input type="text" name="desc" placeholder="My Email Account"></label></p>
+</fieldset>
+
+```
+
 ---
 
 ### `<input>`
