@@ -25,7 +25,7 @@ My main goals are to become a developer, a better designer and to live a healthy
 |            |  Poiema: javascript | [Poiemaweb](http://poiemaweb.com/)|
 |            |  100-days-of-code Day03| [codepen](https://codepen.io/yogicat/full/oEvgaR)|
 | 2018-01-28 |  Book : YDKJS Scope & Closures | [YDKJS](https://github.com/getify/You-Dont-Know-JS/) |
-|            |   |
+|            |  100-days-of-code Day04| [codepen](https://codepen.io/yogicat/full/yvBwvL/)|
 ---
 
 
