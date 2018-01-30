@@ -10,8 +10,7 @@
 2. Parsing : taking a stream of tokens and turning it into a tree of nested elements. -> represent the grammatical structure of the program. *AST (Abstract Syntax Tree)*
 
 ```js
-	var a  = 2;
-// 1  2  3 4 
+var a  = 2;
 ```
 
 `var` : VariableDeclaration
