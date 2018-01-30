@@ -22,6 +22,7 @@ A collection of things I've learned in my journey to becoming an awesome devlope
   - [FCS lecture 5](./class/lecture05.md) 
   - [CS50 lecture 11 Javascript](./class/cs50-lecture11.md)
   - [FCS Javascript lecture 1](./class/js-lecture01.md)
+  - [FCS Javascript lecture 2](./class/js-lecture02.md)
 - git
   - [github tutorial:git it](./git-and-editors/git-it-tutorial.md) 
   - [vscode shortcut for macOS](./git-and-editors/vscode-shorcuts.md)
