@@ -1,6 +1,6 @@
 ## Podcasts App
 
-- [Overcast](https://overcast.fm/) : smart speed and voice boost is really awesome. hard to search certain eposode.
+- [Overcast](https://overcast.fm/) : smart speed and voice boost features really awesome. hard to search certain eposode.
 - [Podcast Web App](http://podcastapp.ehubsoft.net/) : listen podcasts on your internet browser
 
 ---
@@ -8,11 +8,11 @@
 ## Podcasts Lists
 
 ### My Go-To daily podcasts
-- Hidden Brain
+- **Hidden Brain**
 - **The Joe Rogan Experience**
 - 99% Invisible
 - Freakonomics Radio
-- How I Built This
+- **How I Built This**
 - TED Radio Hour
 - This American Life
 - The Tim Ferriss Show
