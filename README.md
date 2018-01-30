@@ -29,6 +29,7 @@ A collection of things I've learned in my journey to becoming an awesome devlope
 - html
   - [semantic markup](./html/semantic-markups.md) 
   - [form](./html/form.md) 
+  - [writing a form](./html/writing-a-form.md) 
 - css
   - [box model](./css/box-model.md)
   - [reset](./css/reset.md)

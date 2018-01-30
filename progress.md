@@ -29,6 +29,8 @@ My main goals are to become a developer, a better designer and to live a healthy
 | 2018-01-29 |  Javascript understanding weird parts | [udemy](https://www.udemy.com/understand-javascript/learn/v4/overview)|
 |            |  Poiema : javascript study | - |
 |            |  100-days-of-code Day05 | - |
+| 2018-01-30 |  Study: W3C Form | [HTML 5.2](https://www.w3.org/TR/html/) |
+|            |  100-days-of-code Day06 | - |
 ---
 
 
