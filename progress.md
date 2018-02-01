@@ -31,6 +31,12 @@ My main goals are to become a developer, a better designer and to live a healthy
 |            |  100-days-of-code Day05 | - |
 | 2018-01-30 |  Study: W3C Form | [HTML 5.2](https://www.w3.org/TR/html/) |
 |            |  100-days-of-code Day06 | - |
+| 2018-01-31 |  Poiema : javascript study | - |
+|            |  Deep JavaScript Foundations | [frontend master course](https://frontendmasters.com/courses/javascript-foundations/) |
+| 2018-02-01 |  Deep JavaScript Foundations | - |
+|            |  Poiema : javascript study | - |
+|            |  100-days-of-code Day07      | - |
+|            |  100-days-of-code Day08      | - |
 ---
 
 
