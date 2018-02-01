@@ -249,10 +249,12 @@ console.log(bar());    // null (browser에서의 실행 결과)
 ```
 
 
-유사배열 객체  특징 -> length -> 순회(for 문) 가능
-
+유사배열 객체 특징 -> length -> 순회(for 문) 가능
+array like object
 
 ---
+
+
 
 
 
