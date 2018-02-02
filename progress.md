@@ -35,8 +35,9 @@ My main goals are to become a developer, a better designer and to live a healthy
 |            |  Deep JavaScript Foundations | [frontend master course](https://frontendmasters.com/courses/javascript-foundations/) |
 | 2018-02-01 |  Deep JavaScript Foundations | - |
 |            |  Poiema : javascript study | - |
-|            |  100-days-of-code Day07      | - |
-|            |  100-days-of-code Day08      | - |
+| 2018-02-02 |  100-days-of-code Day07   | - |
+|            |  Book : YDKJS this     | - |
+|            |  Book : Professional Javascript for Web Developers | - |
 ---
 
 
