@@ -20,11 +20,12 @@ A collection of things I've learned in my journey to becoming an awesome devlope
   - [FCS lecture 3](./class/lecture03.md) 
   - [FCS lecture 4](./class/lecture04.md) 
   - [FCS lecture 5](./class/lecture05.md) 
+  - [CS50 lecture 01 Javascript](./class/cs50-lecture01.md)
   - [CS50 lecture 11 Javascript](./class/cs50-lecture11.md)
   - [FCS Javascript lecture 1](./class/js-lecture01.md) (2018-01-29)
   - [FCS Javascript lecture 2](./class/js-lecture02.md) (2018-01-30)
   - [FCS Javascript lecture 3](./class/js-lecture03.md) (2018-02-01)
-  - [FCS Javascript lecture 3](./class/js-lecture04.md) (2018-02-02)
+  - [FCS Javascript lecture 4](./class/js-lecture04.md) (2018-02-02)
 - git
   - [github tutorial:git it](./git-and-editors/git-it-tutorial.md) 
   - [vscode shortcut for macOS](./git-and-editors/vscode-shorcuts.md)
@@ -44,6 +45,8 @@ A collection of things I've learned in my journey to becoming an awesome devlope
   - [you don't know js - up&going](./js/ydkjs-up-and-going.md)
   - [you don't know js - scope-and-closures](./js/ydkjs-scope-and-closures.md) (2018-01-28)
   - [difference between undeclared and undefined](./js/undeclared-and-undefined.md) (2018-02-01)
+  - [what is Javascript?](./js/history-of-js.md) (2018-02-02)
+  - [what is Javascript?](./js/history-of-js.md) (2018-02-02)
 - tips
   - [podcasts recommendation](./tips/favorite-podcasts.md)
   - [chrome dev tool with blank page](./tips/chrome-blank.md) 
