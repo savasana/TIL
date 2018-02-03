@@ -45,8 +45,8 @@ A collection of things I've learned in my journey to becoming an awesome devlope
   - [you don't know js - up&going](./js/ydkjs-up-and-going.md)
   - [you don't know js - scope-and-closures](./js/ydkjs-scope-and-closures.md) (2018-01-28)
   - [difference between undeclared and undefined](./js/undeclared-and-undefined.md) (2018-02-01)
-  - [what is Javascript?](./js/history-of-js.md) (2018-02-02)
-  - [what is Javascript?](./js/history-of-js.md) (2018-02-02)
+  - [what is Javascript?](./js/history-of-js.md) (2018-02-03)
+  - [prototype](./js/prototype.md) (2018-02-03)
 - tips
   - [podcasts recommendation](./tips/favorite-podcasts.md)
   - [chrome dev tool with blank page](./tips/chrome-blank.md) 
