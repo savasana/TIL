@@ -32,12 +32,19 @@ My main goals are to become a developer, a better designer and to live a healthy
 | 2018-01-30 |  Study: W3C Form | [HTML 5.2](https://www.w3.org/TR/html/) |
 |            |  100-days-of-code Day06 | - |
 | 2018-01-31 |  Poiema : javascript study | - |
-|            |  Deep JavaScript Foundations | [frontend master course](https://frontendmasters.com/courses/javascript-foundations/) |
-| 2018-02-01 |  Deep JavaScript Foundations | - |
+|            |  Course : Deep JavaScript Foundations | [frontend master course](https://frontendmasters.com/courses/javascript-foundations/) |
+| 2018-02-01 |  Course : Deep JavaScript Foundations | - |
 |            |  Poiema : javascript study | - |
-| 2018-02-02 |  100-days-of-code Day07   | - |
-|            |  Book : YDKJS this     | - |
-|            |  Book : Professional Javascript for Web Developers | - |
+| 2018-02-02 |  Course : The Good Parts  | [frontend master course](https://frontendmasters.com/)  |
+|            |  Book : YDKJS this & Object Prototypes   | - |
+| 2018-02-03 |  Course : The Good Parts | - |
+|            |  Course : Understand Javascript | [udemy](https://www.udemy.com/understand-javascript)|
+|            |  Study : History of Javascript | - |
+| 2018-02-04 |  Course : Deep JavaScript Foundations | - |
+|            |  Book : YDKJS Scope & Closures  | - |
+|            |  Book : JavaScript : The Good Parts | Douglas Crockford |
+|            |  Poiema : Review | - |
+
 ---
 
 
