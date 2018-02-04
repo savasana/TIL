@@ -50,6 +50,7 @@ A collection of things I've learned in my journey to becoming an awesome devlope
   - [prototype](./js/prototype.md) (2018-02-03)
   - [var and let hoisting](./js/hoisting.md) (2018-02-04)
   - [understanding closure](./js/understanding-closure.md) (2018-02-04)
+  - [coding convention](./js/coding-convention.md) (2018-02-04)
 - tips
   - [podcasts recommendation](./tips/favorite-podcasts.md)
   - [chrome dev tool with blank page](./tips/chrome-blank.md) 
