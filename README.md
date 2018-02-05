@@ -54,6 +54,7 @@ A collection of things I've learned in my journey to becoming an awesome devlope
 - tips
   - [podcasts recommendation](./tips/favorite-podcasts.md)
   - [chrome dev tool with blank page](./tips/chrome-blank.md) 
+  - [understanding internet](./tips/understanding-internet.md) 
 
 
 ---

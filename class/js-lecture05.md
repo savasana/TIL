@@ -36,6 +36,3 @@ location 객체가 여러개 있을때 method들이 중복되지 않도록 부�
 
 
 
-### DOM
-- Document Object Model is an API that represents and interacts with any HTML or XML document.
-- DOM은 
