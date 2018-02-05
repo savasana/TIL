@@ -23,9 +23,3 @@
 
 ---
 
-### Web Development
-
-#### server 
-- rack server : CPU, motherboard, RAM, Hard Drives,...
-- www is a prifix / 
-- $ curl : virtual browser
