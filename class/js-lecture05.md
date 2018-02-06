@@ -1,4 +1,4 @@
-## built-in object
+### built-in object
 
 내장 객체 - 웹페이지 등을 표현하기 위한 공통의 기능을 제공한다.
 
@@ -23,9 +23,12 @@
 - 
 
 ### BOM
-- 
+
+
 
 window.location 
+
+Location()생성자 함수  -  Location.prototype
 
 window의 location이라는 property가 가진 값
 앞에 f붙은것은 method
@@ -33,6 +36,30 @@ window의 location이라는 property가 가진 값
  
 why use prototype?
 location 객체가 여러개 있을때 method들이 중복되지 않도록 부모역할 객체한테 주면 다 같이 상속받고 중복을 막고 메모리를 절약할 수 있어서.
+
+
+### DOM
+- Document Object Model is an API that represents and interacts with any HTML or XML document.
+
+
+### Standard Built-in Object (native object : BOM , DOM  를 제외한)
+- what is 전역객체 : window (frontend 개념)  | global (node js에서는 global이 전역)
+- window 내에는 native object가 들어있다.
+- back-end node js 에서는 native 가 필요없다.
+- 모든 객체의 최상위 객체 
+
+---
+Window
+- property
+- isFinite() - is ? boolean 
+
+---
+### string
+
+문자열은 크기가 정해져 있다 - 내부적으로는 stack에 저장되지 않고 heap 에서 관리한다.
+기본자료형으로 정해놓은 이유는? 사용빈도가 높기 때문에.
+유사배열객체 : 객체인데 배열과 비슷한 객체이다 -> 순회할 수 있다. 순서가 있다 -> for문으로 돌릴 수 있다.
+
 
 
 
