@@ -52,10 +52,13 @@ A collection of things I've learned in my journey to becoming an awesome devlope
   - [var and let hoisting](./js/hoisting.md) (2018-02-04)
   - [understanding closure](./js/understanding-closure.md) (2018-02-04)
   - [coding convention](./js/coding-convention.md) (2018-02-04)
+  - [standard built-in object 01](./js/standard-built-in-object.md) (2018-02-07)
+  - [standard built-in object 02](./js/standard-built-in-object2.md) (2018-02-07)
 - tips
   - [podcasts recommendation](./tips/favorite-podcasts.md)
   - [chrome dev tool with blank page](./tips/chrome-blank.md) 
   - [understanding internet](./tips/understanding-internet.md) (2018-02-05)
+  - [learning math](./tips/learning-math.md) (2018-02-07)
 
 
 ---
