@@ -24,8 +24,8 @@
 #### Number.isFinite(value)
 
 - return : A `Boolean` indicating whether or not the given value is a finite number.
-- window.isFinite() : forcibly convert the parameter to a number
-- Number.isFinite() : only values of the type number, that are also finite, return true
+- `window.isFinite()` : forcibly convert the parameter to a number
+- `Number.isFinite()` : only values of the type number, that are also finite, return true
 
 ```js
   Number.isFinite('123') // false
@@ -113,15 +113,15 @@ console.log(numObj.toPrecision(2));   // logs '0.00012'
 - `Math` is not a constructor (new Math 성립하지 않아)
 - All properties and methods of `Math` are **static**
 
-- Math.abs(-1)      // 1   절대값 반환
-- Math.round(20.5)  // 21  인접한 정수로 올림 혹은 내림해서 반환
-- Math.sqrt(9)      // 3   *양*의 제곱근 반환
-- Math.ceil(1.4)    // 2   지정된 숫자를 자신보다 큰, 가장 가까운 정수로 올림 반환
-- Math.floor(1.9)   // 1   자신보다 작은, 가장 가까운 정수로 내림 반환
-- Math.random()            0 ~ 1 미만의 소수 반환 
-- Math.pow(7, 2)    // 49  7을 base로 2를 exponent로 계산후 반환
-- Math.max(1,2,3)   // 3   
-- Math.min(1,2,3)   // 1
+- `Math.abs(-1)`      // 1   절대값 반환
+- `Math.round(20.5)`  // 21  인접한 정수로 올림 혹은 내림해서 반환
+- `Math.sqrt(9)`      // 3   *양*의 제곱근 반환
+- `Math.ceil(1.4)`    // 2   지정된 숫자를 자신보다 큰, 가장 가까운 정수로 올림 반환
+- `Math.floor(1.9)`   // 1   자신보다 작은, 가장 가까운 정수로 내림 반환
+- `Math.random()`            0 ~ 1 미만의 소수 반환 
+- `Math.pow(7, 2)`    // 49  7을 base로 2를 exponent로 계산후 반환
+- `Math.max(1,2,3)`   // 3   
+- `Math.min(1,2,3)`   // 1
 
 
 ```js
