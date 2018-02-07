@@ -44,6 +44,18 @@ My main goals are to become a developer, a better designer and to live a healthy
 |            |  Book : YDKJS Scope & Closures  | - |
 |            |  Book : JavaScript : The Good Parts | Douglas Crockford |
 |            |  Poiema : Review | - |
+| 2018-02-05 |  Course : Deep JavaScript Foundations | - |
+|            |  Book : YDKJS Scope & Closures  | - |
+|            |  Book : JavaScript : The Good Parts | Douglas Crockford |
+|            |  Poiema : Review | - |
+| 2018-02-06 |  Course : Algebra 1 | [khan academy](https://www.khanacademy.org/math/algebra) |
+|            |  Book : YDKJS Types & Grammar | - |
+|            |  Poiema : Review & Study | - |
+| 2018-02-07 |  Course : Algebra 1 | - |
+|            |  Study : Standard Built-in Objects | - |
+|            |  Poiema : Review & Study | - |
+|            |  Homework : Problem Solving | - |
+
 
 ---
 
