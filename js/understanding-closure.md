@@ -34,7 +34,7 @@ foo();
 **execution context**
 - there are 3 types of execution context in JS
 - Global Execution Context, Functional Execution contex, Eval 
-- 
+
 
 [Execution context, Scope chain and JavaScript internals](https://hackernoon.com/execution-context-in-javascript-319dd72e8e2c)
 
