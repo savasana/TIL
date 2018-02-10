@@ -58,11 +58,13 @@ A collection of things I've learned in my journey to becoming an awesome devlope
   - [coding convention](./js/coding-convention.md) (2018-02-04)
   - [converting num to string to num](./js/num-to-str-to-num.md) (2018-02-07)
   - [standard built-in object 01](./js/standard-built-in-object.md) (2018-02-07)
+  - [execution context](./js/execution-context.md) (2018-02-08)
 - tips
   - [podcasts recommendation](./tips/favorite-podcasts.md)
   - [chrome dev tool with blank page](./tips/chrome-blank.md) 
   - [understanding internet](./tips/understanding-internet.md) (2018-02-05)
   - [learning math](./tips/learning-math.md) (2018-02-07)
+  - [add image to md](./tips/add-image-md.md) (2018-02-08)
 
 
 ---
