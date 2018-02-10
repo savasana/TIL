@@ -55,6 +55,10 @@ My main goals are to become a developer, a better designer and to live a healthy
 |            |  Study : Standard Built-in Objects | - |
 |            |  Poiema : Review & Study | - |
 |            |  Homework : Problem Solving | - |
+| 2018-02-08 |  Study : Execution Context | - |
+|            |  Study : Math problem solving | - |
+|            |  Book : Soft Skills | - |
+|            |  Course : Understand Javascript | - |
 
 
 ---
