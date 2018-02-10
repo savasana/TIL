@@ -33,7 +33,7 @@ secondFunction();
 thirdFunction();
 ```
 
-[콜스택이미지](./images/callstack.png)
+![콜스택이미지](./images/callstack.png)
 
 
 
