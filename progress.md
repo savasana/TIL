@@ -56,11 +56,16 @@ My main goals are to become a developer, a better designer and to live a healthy
 |            |  Poiema : Review & Study | - |
 |            |  Homework : Problem Solving | - |
 | 2018-02-08 |  Study : Execution Context | - |
+|            |  Poiema : Review | - |
+| 2018-02-09 |  Study : Problem Solving | - |
+|            |  Course : Understand Javascript | - |
+| 2018-02-10 |  Couse : Understand Javascript  | - |
 |            |  Study : Math problem solving | - |
 |            |  Book : Soft Skills | - |
-|            |  Course : Understand Javascript | - |
-
-
+| 2018-02-11 | Study : Scope Chain | - |
+|            | Study : Execution Context | - |
+|            | Book : Soft Skills | - |
+|            | Studh : Math problem solving | - |
 ---
 
 
