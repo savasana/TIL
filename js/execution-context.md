@@ -18,6 +18,8 @@
 
 콜스택은 함수의 호출을 임시로 저장하고 관리하기 위한 LIFO방식의 데이터 구조이다. 
 
+---
+
 에러를 던져 콜스택이 어떻게 구성되는지 볼 수 있다.
 
 ```js
@@ -37,11 +39,13 @@ thirdFunction();
 
 
 크롬 콘솔로 찍어보면 다음과 같이 나온다.
+콜스택이 `firstFunction()` -> `secondFunction()` -> `thirdFunction()` 순으로 되있을 걸 볼 수 있다.
 
 ![콜스택이미지](./images/callstack.png)
 
+---
 
-콜스택이 `firstFunction()` -> `secondFunction()` -> `thirdFunction()` 순으로 되있을 걸 볼 수 있다.
+
 
 
 
