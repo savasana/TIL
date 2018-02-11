@@ -28,8 +28,8 @@ A collection of things I've learned in my journey to becoming an awesome devlope
   - [FCS Javascript lecture 4](./class/js-lecture04.md) (2018-02-02)
   - [FCS Javascript lecture 5](./class/js-lecture05.md) (2018-02-05)
   - [FCS Javascript lecture 6](./class/js-lecture06.md) (2018-02-06)
-  - [FCS Javascript lecture 7](./class/js-lecture07.md) (2018-02-07)
-  - [Software engineering lecture 1](./class/se-lecture01.md) (2018-02-08)
+  - [FCS Javascript lecture 7](./class/js-lecture07.md) (2018-02-08)
+  - [Software engineering lecture 1](./class/se-lecture01.md) (2018-02-09)
 
 - git
   - [github tutorial:git it](./git-and-editors/git-it-tutorial.md) 
@@ -59,6 +59,8 @@ A collection of things I've learned in my journey to becoming an awesome devlope
   - [converting num to string to num](./js/num-to-str-to-num.md) (2018-02-07)
   - [standard built-in object 01](./js/standard-built-in-object.md) (2018-02-07)
   - [execution context](./js/execution-context.md) (2018-02-08)
+  - [IIFE-Immediately Invoked Function Expression](./js/iife.md) (2018-02-10)
+  - [scope chain and identifier resolution](./js/scope.md) (2018-02-11)
 - tips
   - [podcasts recommendation](./tips/favorite-podcasts.md)
   - [chrome dev tool with blank page](./tips/chrome-blank.md) 
