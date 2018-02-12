@@ -34,10 +34,12 @@ A collection of things I've learned in my journey to becoming an awesome devlope
 - git
   - [github tutorial:git it](./git-and-editors/git-it-tutorial.md) 
   - [vscode shortcut for macOS](./git-and-editors/vscode-shorcuts.md)
+  
 - html
   - [semantic markup](./html/semantic-markups.md) 
   - [form](./html/form.md) 
   - [writing a form](./html/writing-a-form.md) (2018-01-30)
+
 - css
   - [box model](./css/box-model.md)
   - [reset](./css/reset.md)
@@ -46,6 +48,7 @@ A collection of things I've learned in my journey to becoming an awesome devlope
   - [sass shop](./css/sass-shop.md)
   - [pseudo element's content](./css/pseudo-content.md)
   - [calc() function](./css/calc.md) 
+
 - js
   - [you don't know js - up&going](./js/ydkjs-up-and-going.md)
   - [you don't know js - scope-and-closures](./js/ydkjs-scope-and-closures.md) (2018-01-28)
@@ -61,6 +64,10 @@ A collection of things I've learned in my journey to becoming an awesome devlope
   - [execution context](./js/execution-context.md) (2018-02-08)
   - [IIFE-Immediately Invoked Function Expression](./js/iife.md) (2018-02-10)
   - [scope chain and identifier resolution](./js/scope.md) (2018-02-11)
+
+- math
+  - [countings](./math/countings.md) (2018-02-12)
+
 - tips
   - [podcasts recommendation](./tips/favorite-podcasts.md)
   - [chrome dev tool with blank page](./tips/chrome-blank.md) 
