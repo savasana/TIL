@@ -9,6 +9,8 @@ execution context의 scope 개념을 나만의 언어로 다시 정리해보자.
 - [David Shariff](http://davidshariff.com/blog/javascript-scope-chain-and-closures/#first-article)
 
 
+
+
 ---
 
 Every function in Javascript is represented as an object - more specifically, as an instance of Function. Function objects have properties just like any other object, and these include both the properties that you can access programmatically and a series of internal properties that are used by the JavaScript engine but are not accessible through code. One of these properties is `[[Scope]]`, as defined by ECMA-262, Third Edition.
