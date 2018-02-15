@@ -65,7 +65,17 @@ My main goals are to become a developer, a better designer and to live a healthy
 | 2018-02-11 | Study : Scope Chain | - |
 |            | Study : Execution Context | - |
 |            | Book : Soft Skills | - |
-|            | Studh : Math problem solving | - |
+|            | Study : Math problem solving | - |
+| 2018-02-12 | Javascript The Hard Parts | - |
+|            | Poiema : review | - |
+| 2018-02-13 | Javascript The Hard Parts | - |
+|            | Khan Academy : Math Countings | - |
+| 2018-02-14 | Javascript30 day01 | [link](https://yogicat.io/javascript30/01-drumkit) |
+|            | Khan Academy : Math Factorization | - |
+|            | FCC : Computer Basics | - |
+| 2018-02-15 | Javascript30 day02 | [link](https://yogicat.io/javascript30/02-clock) |
+|            | FCC : Basic Algorithm Scripting | - |
+|            | Study : Algorithm Homework |
 ---
 
 
