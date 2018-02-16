@@ -108,8 +108,32 @@ fibo(6);
 
 ```
 
-![](recursion/fib2.png)
+![](recursion/fib3.png)
 
 - - - -
 
 
+### Fibonacci - Memoization이용해 문제 풀기
+
+- 위에 recursion을 사용하면, recursion내에서 겹치는 부분이 발생한다.
+- 겹치는 부분을 저장해 놓고 가져다 쓴다
+
+```js
+function fibo2(n, memo) {
+  var result;
+  memo = memo || {};
+  if (memo[n]) return memo[n];
+  if (n <= 2) return 1;
+  result = fibo2(n - 1, memo) + fibo2(n - 2, memo);
+  memo[n] = result;
+  return result;
+}
+
+console.log(fibo2(2));
+console.log(fibo2(3));
+console.log(fibo2(4));
+
+
+```
+
+memo라는 기억할 저장소를 만들어 놓고, recursion할 때마다 그 값을 저장해 둔다, 나중에 똑같은 값에 대한 recursion이 필요할때 저장소에서 먼저 찾아 보고 없을 경우에만 recursion을 실행한다.
