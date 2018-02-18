@@ -67,7 +67,10 @@ A collection of things I've learned in my journey to becoming an awesome devlope
 
 - math
   - [countings](./math/countings.md) (2018-02-12)
-  - [recursion](./math/recursion.md) (2018-02-16)
+
+- algorithm
+  - [recursion](./algorithm/recursion.md) (2018-02-16)
+  - [dynamic programming](./algorithm/dynamic-programming.md) (2018-02-16)
 
 - tips
   - [podcasts recommendation](./tips/favorite-podcasts.md)
@@ -79,6 +82,7 @@ A collection of things I've learned in my journey to becoming an awesome devlope
 - vanilla js
   - [drumkit](https://yogicat.github.io/JavaScript30/01-drumkit/) (2018-02-14)
   - [css js clock](https://yogicat.github.io/JavaScript30/02-clock/) (2018-02-15)
+  - [css variable](https://yogicat.github.io/JavaScript30/03-css/) (2018-02-17)
 
 ---
 
