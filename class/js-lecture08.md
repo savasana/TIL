@@ -1,11 +1,11 @@
 # js lecture 08
 
-## DOM and Event
+## DOM and EventM
 ---
 
 - EventHandler 중요
 - 왜 jquery를 점점 안쓰는가? - JS가 DOM에 종속된다 - html이 변하면 JS도 변해야 한다. html은 수시로 변한다. 비효율 
-- html이 바뀌어도 js가 바뀌지 않게 하는 구조가 중요. (angular, react)
+- html이 바뀌어도 js가 바뀌지 않게 하는 구조가 중요. µ(angular, react)
 - DOM은 불편한 설계 - 실무에서는 DOM API를 실제로 쓸일이 거의 없다.
 - DOM은 cross browsing이 중요
 - browser support는 끝이 없어 - polyfill사용
