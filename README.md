@@ -29,6 +29,7 @@ A collection of things I've learned in my journey to becoming an awesome devlope
   - [FCS Javascript lecture 5](./class/js-lecture05.md) (2018-02-05)
   - [FCS Javascript lecture 6](./class/js-lecture06.md) (2018-02-06)
   - [FCS Javascript lecture 7](./class/js-lecture07.md) (2018-02-08)
+  - [FCS Javascript lecture 8](./class/js-lecture08.md) (2018-02-19)
   - [Software engineering lecture 1](./class/se-lecture01.md) (2018-02-09)
 
 - git
