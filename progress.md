@@ -76,6 +76,14 @@ My main goals are to become a developer, a better designer and to live a healthy
 | 2018-02-15 | Javascript30 day02 | [link](https://yogicat.github.io/javascript30/02-clock) |
 |            | FCC : Basic Algorithm Scripting | - |
 |            | Study : Algorithm Homework |
+| 2018-02-16 | ||
+| 2018-02-17 | Javascript30 day03 | - |
+|            | p5.js | - |
+|            | Algorithm : recursion | - |
+| 2018-02-18 | Course : Understand Javascript | - |
+|            | Algorithm : dynamic programming | - |
+|            | FCC : Computer Basics | - |
+| 2018-02-19 | Book : ||-|
 ---
 
 
