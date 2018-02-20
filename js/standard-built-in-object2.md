@@ -46,6 +46,9 @@
 - return a **new Array instance**
 - `var newArr = oldArr.concat(value[, value2 [,... valueN]])`
 
+- 인자(arguments)는 배열일 수도 있고 값일 수도 있다
+- 새로운 배열을 반환함 (받아줘야한다)
+
 ---
 
 **`concat` method는 arguments로 주어진 배열들과 this를 바꾸지 않고 shallow copy를 반환한다. 원본배열의 요소들이 새로운 배열로 복사되는 방법은 다음과 같다**
@@ -67,7 +70,7 @@ console.log(alphaNumeric);
 
  ```
 
-<br>
+
 
 ```js
 // Concatenation nested arrays
@@ -102,15 +105,20 @@ console.log(nums);
 
 #### Array.prototype.pop()
 
+- `push`와 반대로 배열의 마지막 요소를 뺀다(리턴)
+
 ---
 
 #### Array.prototype.push()
 
+- 배열의 마지막 인덱스에 argument값을 추가
+- 배열의 새로운 길이값을 반환한다 (new length)
 
 ---
 
 #### Array.prototype.reverse()
 
+- 배열 요소 순서를 반대로 변경
 
 ---
 
@@ -174,3 +182,5 @@ console.log(nums);
 
 ### for...of
 
+
+---

@@ -7,7 +7,6 @@
 - Object, Function, Boolean, Number, Math, String, RegExp, Array, Error..
 - 자체 method와 prototype method가 있으니 MDN에서 잘 숙지하고 사용할것.
 
-<br>
 
 **Boolean, Number,String은 primitive value인 boolean, number, string과 구별해야 한다. Boolean, Number, String은 기본자료형을 다룰 때 유용한 메소드등을 제공하는 wrapper객체이다. 호출할때 기본자료형은 연관된 wrapper객체로 일시적 형변환이 일어난다.(다시 원래 type으로 변환 후 반환)**
 
