@@ -45,7 +45,7 @@
 - used to merge two or more arrays
 - return a **new Array instance**
 - `var newArr = oldArr.concat(value[, value2 [,... valueN]])`
-
+- 두개 이상의 배열을 합친다. (값으로 합친다)
 - 인자(arguments)는 배열일 수도 있고 값일 수도 있다
 - 새로운 배열을 반환함 (받아줘야한다)
 
@@ -71,7 +71,6 @@ console.log(alphaNumeric);
  ```
 
 
-
 ```js
 // Concatenation nested arrays
 var num1 = [[1]];
@@ -90,29 +89,28 @@ console.log(nums);
 
 ```
 
-
-
-
 ---
 
 #### Array.prototype.join()
 
 - `arr.join([seperator])`
 - seperator : optional / 
-- returns a string with all array elements joined
+- **returns a string** with all array elements joined
 
 ---
+### pop, push, unshift, shift 원본배열 변경
 
 #### Array.prototype.pop()
 
 - `push`와 반대로 배열의 마지막 요소를 뺀다(리턴)
 
----
 
 #### Array.prototype.push()
 
 - 배열의 마지막 인덱스에 argument값을 추가
 - 배열의 새로운 길이값을 반환한다 (new length)
+
+
 
 ---
 
@@ -122,15 +120,9 @@ console.log(nums);
 
 ---
 
-#### Array.prototype.shift()
-
-
----
-
 #### Array.prototype.slice()
 
 ---
-
 
 #### Array.prototype.splice()
 
@@ -178,9 +170,3 @@ console.log(nums);
 
 ---
 
-
-
-### for...of
-
-
----
