@@ -107,7 +107,7 @@ xhr.send();
 - 동일 출처 원칙에 의해 한번 통신한 호스트와 계속 통신해야함
 - 실제 데이터는 body 에 있음 이를 페이로드 라고 한다.
 - GET은 주소창에 붙어서 날라가고 (페이로드없음), POST는 안보이는 차이(보이지 않을뿐 없는것은 아님)
-(헤더는 바디를 불러싼 짐차이고 짐은 실제 데이터)
+(헤더는 바디를 불러싼 짐차이고 짐(바디)는  실제 데이터)
 
 ex) suhjohn.gitbooks.io/nunum-api
 
@@ -116,13 +116,110 @@ ex) suhjohn.gitbooks.io/nunum-api
 
 
 ---
-### Ajax responce
+### Ajax response
+
+```js
+// XMLHttpRequest.readyState 프로퍼티가 변경(이벤트 발생)될 때마다 이벤트 핸들러를 호출한다.
+xhr.onreadystatechange = function (e) {
+  // readyStates는 XMLHttpRequest의 상태(state)를 반환
+  // readyState: 4 => DONE(서버 응답 완료)
+  if (xhr.readyState === XMLHttpRequest.DONE) {
+    // status는 response 상태 코드를 반환 : 200 => 정상 응답
+    if(xhr.status === 200) {
+      console.log(xhr.responseText);
+    } else {
+      console.log("Error!");
+    }
+  }
+};
+```
+---
+
+```js
+// XMLHttpRequest 객체의 생성
+var req = new XMLHttpRequest();
+// 비동기 방식으로 Request를 오픈한다
+req.open('GET', 'data/test.json');
+// Request를 전송한다
+req.send();
+
+req.onreadystatechange = function (e) {
+  // 이 함수는 Response가 클라이언트에 도달하면 호출된다.
+};
+```
+
+
+
+### recap AJAX 
+1. xhr = new XMLHttpRequest();
+2. xhr.open('GET', '/url'); / xhr.open('POST', '/url');
+3. xhr.send();  / xhr.send('body'); 
+  - GET : 보낼때 특별한 요청이 있으면 body(payload) 함께 보내고 없으면 그냥 보낸다(다 가져올때)
+  - POST : 반드시 payload 필요하다.
 
 ---
 
+note
 
----
 - html에서 head : 웹 문서에 대한 메타 데이터 (title제외하고 표시 안됨)
 - 웹서버 , 데이터베이스서버, ...
 - MVC : Model View Controler 전통적인 architecture
 - CBD : Component Based Development (angular, react..)
+
+--- 
+
+### webserver
+
+- node.js는 웹서버가 아니고 웹서버를 사용할 수 있는 환경
+- node.js + express (frameworks)
+
+
+- `public` : 웹서버의 root folder 정적파일 여기에 (index.html같은거)
+
+
+
+### Load JSONP
+
+- 동일출처원칙 Same origin policy 동일한 서버로 부터 커뮤니케이션 해야함
+- 다른 사이트의 api는 어떻게 가져다 쓸 수 있나?
+- 서버한테 다른 서버에서 가져오라고 시킨다 (서버간 통신은 상관없음)
+- 클라이언트에서는 JSONP로 가능
+
+
+### REST API
+ 
+- Representational State Transfer API
+- URI는 자원을 표현(명사) , method는 행위를 표현(동사)
+- HTTP Method : GET, POST, PUT, DELETE
+- CRUD : Create, Read, Update, Delete
+
+- GET : index / retrieve
+- POST : create , 데이터를 생성
+- PUT : update
+- DELETE : delete
+
+
+```
+bad - uri 에서 동사쓰면 bad
+GET/books/delete/1
+
+good
+GET/books/1
+DELETE/BOOKS/1
+```
+
+
+---
+
+백엔드에서 restAPI를 만든다.
+
+---
+
+<form method="POST" action="url">
+- html에서는 POST , GET 두가지만 가능
+- GET은 주소창(url)에 정보가 보인다. 따라서 로그인정보 같은거 보낼때는 POST로 하기도 한다.
+- GET방식은  send('payload')를 못한다. 불법은 아니지만, 다른기술들이 뒷받침해주지 않는다.
+
+- POST는 js에서 status check 할때 202
+
+[status code](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes)
