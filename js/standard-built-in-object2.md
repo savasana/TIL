@@ -1,12 +1,4 @@
-### Standard Built-in Object 2
-
-
----
-
-### RegExp
-
-- 정규표현식
-
+### Standard Built-in Object 2 
 
 
 ---
@@ -130,6 +122,16 @@ console.log(nums);
 
 #### Array.prototype.sort()
 
+- `arr.sort([func])`
+- 함수 없으면 Unicode에 의해 정렬된다! (숫자도 문자로 바꿔서)
+- 리턴 : 정렬된 배열! (새로운 카피 배열 아님)
+- sorts the elements of an array **in place** and returns the array.
+
+**`compareFunction(a, b)`이 있는경우**
+- 결과값이 0보다 작으면, a를 b보다 앞으로 정렬
+- 결과값이 0이면, a, b는 서로 바뀌지 않는다 - 보장되지 않는다.
+- 결과값이 0보다 크면 b가 a앞으로 정렬
+
 ---
 
 #### Array.prototype.forEach()
@@ -154,6 +156,8 @@ console.log(nums);
 
 #### Array.prototype.reduce()
 
+- `arr.reduce(callback[, value])`
+- accumulator(축적하는 값) : 콜백 결과값을 축적한다.
 
 ---
 
