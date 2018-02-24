@@ -30,6 +30,8 @@ A collection of things I've learned in my journey to becoming an awesome devlope
   - [FCS Javascript lecture 6](./class/js-lecture06.md) (2018-02-06)
   - [FCS Javascript lecture 7](./class/js-lecture07.md) (2018-02-08)
   - [FCS Javascript lecture 8](./class/js-lecture08.md) (2018-02-19)
+  - [FCS Javascript lecture 9](./class/js-lecture08.md) (2018-02-22)
+  - [FCS Javascript lecture 10](./class/js-lecture08.md) (2018-02-23)
   - [Software engineering lecture 1](./class/se-lecture01.md) (2018-02-09)
 
 - git
@@ -65,6 +67,7 @@ A collection of things I've learned in my journey to becoming an awesome devlope
   - [execution context](./js/execution-context.md) (2018-02-08)
   - [IIFE-Immediately Invoked Function Expression](./js/iife.md) (2018-02-10)
   - [scope chain and identifier resolution](./js/scope.md) (2018-02-11)
+  - [DOM : Document Object Model](./js/scope.md) (2018-02-20)
 
 - math
   - [countings](./math/countings.md) (2018-02-12)
@@ -84,6 +87,8 @@ A collection of things I've learned in my journey to becoming an awesome devlope
   - [drumkit](https://yogicat.github.io/JavaScript30/01-drumkit/) (2018-02-14)
   - [css js clock](https://yogicat.github.io/JavaScript30/02-clock/) (2018-02-15)
   - [css variable](https://yogicat.github.io/JavaScript30/03-css/) (2018-02-17)
+  - [array cardio](https://yogicat.github.io/JavaScript30/04-array/) (2018-02-24)
+  - [type ahead](https://yogicat.github.io/JavaScript30/06-typeAhead/) (2018-02-24)
 
 ---
 
