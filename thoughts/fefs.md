@@ -56,7 +56,7 @@
 
 ### Server
 - Dedicated Server : server machine
-- VPS : chunks of dedicated server (cloud)
+- VPS : chunks of dedicated server - virtual private server (cloud)
 - Cloud : flexible, scalable, on demand
 - AWS, Rackspace, Digital Ocean, ..
 
