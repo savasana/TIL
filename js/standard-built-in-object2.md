@@ -101,9 +101,6 @@ console.log(nums);
 
 - 배열의 마지막 인덱스에 argument값을 추가
 - 배열의 새로운 길이값을 반환한다 (new length)
-
-
-
 ---
 
 #### Array.prototype.reverse()
@@ -114,9 +111,18 @@ console.log(nums);
 
 #### Array.prototype.slice()
 
+- returns a shallow copy of a portion of an array into a new array.
+- `arr.slice([begin[, end]]);`
+- slice new array from `begin` to `end` 
+
 ---
 
 #### Array.prototype.splice()
+
+- **change the contents of an array** by removing existing elements or adding new elements.
+- `array.splice(startIndex[, deleteCount[, item1]]);`
+- startIndex : origin 0 , negative will begin that many elements from the end of the array.
+- deleteCount : 0 or negetive, no elements are removed.
 
 ---
 
@@ -144,33 +150,72 @@ console.log(nums);
 
 #### Array.prototype.map()
 
+- creates a new array.(length is the same)
 
+```js
+var numbers = [1, 4, 9];
+var doubles = numbers.map(function(num) {
+  return num * 2;
+});
+
+// doubles is now [2, 8, 18]
+// numbers is still [1, 4, 9]
+```
 ---
 
 
 #### Array.prototype.filter()
 
+- create a new array with all elements that pass the test.
+
+```js
+function isBigEnough(value) {
+  return value >= 10;
+}
+
+var filtered = [12, 5, 8, 130, 44].filter(isBigEnough);
+// filtered is [12, 130, 44]
+```
 
 ---
 
 
 #### Array.prototype.reduce()
 
-- `arr.reduce(callback[, value])`
+- `arr.reduce(callback[, initialValue])`
 - accumulator(축적하는 값) : 콜백 결과값을 축적한다.
+
+```js
+var sum = [0, 1, 2, 3, 4].reduce(function (accumulator, currentVal) {
+  return accumulator + currentVal;
+}, 0);
+// 0 = start value
+// currentIndex : 1, 2, 3, 4
+// accumulater  : 0, 1, 3, 6
+// currentVal   : 1, 2, 3, 4
+// return value : 1, 3, 6, 10  
+```
 
 ---
 
 #### Array.prototype.some()
 
+- `arr.some(callback)`
+- test whether at least one element in the array passes the test.
+- returns boolean
+
+
 ---
 
 #### Array.prototype.every()
 
+- tests whether all elements in the array pass the test
+- returns boolean value
 
 ---
 
 #### Array.prototype.find()
 
+- returns the value of the first element in the array that satisfies the provided testing function.
 ---
 

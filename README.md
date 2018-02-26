@@ -67,7 +67,8 @@ A collection of things I've learned in my journey to becoming an awesome devlope
   - [execution context](./js/execution-context.md) (2018-02-08)
   - [IIFE-Immediately Invoked Function Expression](./js/iife.md) (2018-02-10)
   - [scope chain and identifier resolution](./js/scope.md) (2018-02-11)
-  - [DOM : Document Object Model](./js/scope.md) (2018-02-20)
+  - [DOM : Document Object Model](./js/dom.md) (2018-02-20)
+  - [DOM cheatsheet](./js/dom-cheatsheet.md) (2018-02-25)
 
 - math
   - [countings](./math/countings.md) (2018-02-12)
