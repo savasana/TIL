@@ -30,8 +30,10 @@ A collection of things I've learned in my journey to becoming an awesome devlope
   - [FCS Javascript lecture 6](./class/js-lecture06.md) (2018-02-06)
   - [FCS Javascript lecture 7](./class/js-lecture07.md) (2018-02-08)
   - [FCS Javascript lecture 8](./class/js-lecture08.md) (2018-02-19)
-  - [FCS Javascript lecture 9](./class/js-lecture08.md) (2018-02-22)
-  - [FCS Javascript lecture 10](./class/js-lecture08.md) (2018-02-23)
+  - [FCS Javascript lecture 9](./class/js-lecture09.md) (2018-02-22)
+  - [FCS Javascript lecture 10](./class/js-lecture10.md) (2018-02-23)
+  - [FCS Javascript lecture 11](./class/js-lecture11.md) (2018-02-26)
+  - [FCS Javascript lecture 12](./class/js-lecture12.md) (2018-02-27)
   - [Software engineering lecture 1](./class/se-lecture01.md) (2018-02-09)
 
 - git
@@ -88,8 +90,9 @@ A collection of things I've learned in my journey to becoming an awesome devlope
   - [drumkit](https://yogicat.github.io/JavaScript30/01-drumkit/) (2018-02-14)
   - [css js clock](https://yogicat.github.io/JavaScript30/02-clock/) (2018-02-15)
   - [css variable](https://yogicat.github.io/JavaScript30/03-css/) (2018-02-17)
-  - [array cardio](https://yogicat.github.io/JavaScript30/04-array/) (2018-02-24)
+  - [array cardio](https://github.com/yogicat/JavaScript30/04-array/) (2018-02-24)
   - [type ahead](https://yogicat.github.io/JavaScript30/06-typeAhead/) (2018-02-24)
+  - [array cardio2](https://github.com/yogicat/JavaScript30/07-array2/) (2018-02-25)
 
 ---
 
