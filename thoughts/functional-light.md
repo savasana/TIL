@@ -33,3 +33,24 @@ function foo(x,y) {
 }
 ```
 
+
+
+```js
+function f(x) {
+    return 2 * Math.pow(x,2) + 3;
+}
+
+var y;
+y = f(0); 	//3
+y = f(2);	//11
+y = f(-1);	//5
+
+// direct input and output!
+```
+
+
+
+### Pure Function
+
+- with no side effect
+- ​
