@@ -87,3 +87,100 @@ function titleCaseRegex(str) {
 
 console.log(titleCaseRegex("I'm a little tea pot."));
 ```
+
+---
+
+### Confirm the Ending
+
+```js
+function confirmEnding(str, target) {
+  return str.substr(-target.length) === target;
+}
+
+console.log(confirmEnding("song yohan", "han"));
+```
+
+---
+
+### Repeat a string repeat a string
+
+```js
+function repeatStringNumTimes(str, num) {
+  // repeat after me
+  return num > 0 ? str.repeat(num) : '';
+}
+
+console.log(repeatStringNumTimes("abc", 3));
+```
+
+---
+### Truncate a String
+
+```js
+function truncateString(str, num) {
+  // Clear out that junk in your trunk
+  if (str.length > 3 && num > 3) {
+    return str.slice(0, (num - 3)) + '...';
+  } else if (str.length > num && num <= 3) {
+    return str.slice(0, num) + '...';
+  } 
+  return str;
+}
+
+console.log(truncateString("free code camp", 3));
+console.log(truncateString("A-tisket a-tasket A green and yellow basket", "A-tisket a-tasket A green and yellow basket".length + 2));
+```
+
+```js
+function truncateString(str, num) {
+  if (str.length > num)
+    return str.slice(0, num > 3 ? num - 3 : num) + '...';  
+  return str;
+}
+
+console.log(truncateString("Absolutely Longer", 2));
+console.log(truncateString("A-tisket a-tasket A green and yellow basket", "A-tisket a-tasket A green and yellow basket".length + 2));
+```
+
+---
+
+
+```js
+function mutation(arr) {
+  var origin = arr[0].toLowerCase();
+  var test = arr[1].toLowerCase();
+  
+  for (var i = 0; i < test.length; i++) {
+    if (origin.indexOf(test[i]) === -1) return false;
+  }
+  return true;
+}
+
+console.log(mutation(["hello", "hey"]));
+console.log(mutation(["zyxwvutsrqponmlkjihgfedcba", "qrstu"]));
+console.log(mutation(["Mary", "Army"]));
+```
+
+---
+
+### Falsy Bouncer
+
+Remove all falsy values from an array
+
+```js
+function bouncer(arr) {
+  console.log(Boolean);
+  return arr.filter(function(item) {
+    return Boolean(item);
+  });
+}
+
+function bouncer(arr) {
+  return arr.filter(Boolean);
+ }
+
+console.log(bouncer([7, "ate", "", false, 9]));
+console.log(bouncer([1, null, NaN, 2, undefined]));
+```
+
+---
