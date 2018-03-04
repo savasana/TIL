@@ -78,6 +78,7 @@ A collection of things I've learned in my journey to becoming an awesome devlope
 - algorithm
   - [recursion](./algorithm/recursion.md) (2018-02-16)
   - [dynamic programming](./algorithm/dynamic-programming.md) (2018-02-16)
+  - [free code camp algorithm](./algorithm/freecodecamp.md) (2018-03-03)
 
 - tips
   - [podcasts recommendation](./tips/favorite-podcasts.md)
