@@ -40,17 +40,17 @@ Methods
 - `String.prototype[@@iterator]()`
 - `String.raw()`
 
+---
 
 ### Array
 Properties
-- Array.length
-- Array.prototype
-- Array.prototype[@@unscopables]
+- `Array.length`
+- `Array.prototype`
+- `Array.prototype[@@unscopables]`
 
 Methods
 - `Array.from()`
 - `Array.isArray()`
-- `Array.observe()`
 - `Array.of()`
 - `Array.prototype.concat()`
 - `Array.prototype.copyWithin()`
@@ -60,8 +60,6 @@ Methods
 - `Array.prototype.filter()`
 - `Array.prototype.find()`
 - `Array.prototype.findIndex()`
-- `Array.prototype.flatMap()`
-- `Array.prototype.flatten()`
 - `Array.prototype.forEach()`
 - `Array.prototype.includes()`
 - `Array.prototype.indexOf()`
@@ -85,5 +83,4 @@ Methods
 - `Array.prototype.unshift()`
 - `Array.prototype.values()`
 - `Array.prototype[@@iterator]()`
-- `Array.unobserve()`
 - `get Array[@@species]`
