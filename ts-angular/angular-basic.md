@@ -28,22 +28,71 @@
 
 
 **property decorator**
+- 클래스 안에서 특정 property를 나타낼때 사용
+- `@Input` : input바인딩을 원하는 프로퍼티에 사용
+
+```js
+import { Component, Input } from '@angular/core';
+
+export class ExampleComponent {
+@Input()
+exampleProperty: string;
+}
+```
+
+```html
+// 템플릿
+<example-component
+  [exampleProperty]="exampleData">
+</example-component>
+```
 
 ---
-### component
-- each component 
+### components
+- 컴포넌트는 view의 부분을 컨트롤한다
+- 클래스 안에 컴포넌트를 작성한다. 프로퍼티, 메서드 api를 통해 view와 interact한다.
+
+---
+
+### templates
+- 컴포넌트의 view를 짝이 되는 template을 통해 정의한다.
+- 템플릿은 html의 형태로 앵귤러에게 어떻게 렌더할지 알려주는 역할.
+
+---
+
+### metadata
+- 메타데이터는 앵귤러에게 클래스를 어떻게 처리할지에 대한 정보 제공
+- @Component 에 사용되는 metadata (selector, templateUrl, providers,...)
 
 ---
 
 ### data binding
 - {{ data }} / [property]="data"
 - (event) = "expression"
-- 
+- [(ngModel)]="property" (주의)
+
+two way data binding은 상태가 마법과도 같이 바뀐다.속도가 느리다. implicit. 
+one way data binding은 빠르다. explicit. 데이터가 한방향으로 흐른다. 컨트롤할 수 있다.
 
 ---
 
-### property binding
-- `[disabled]="isActive"` : with boolean expression 
-- dynamic binding
+### directives
+- 앵귤러의 템플릿은 directives의 지시에 의해 DOM을 변화시킨다.(다이나믹하다)
+- structural directives : DOM에 element를 더하고,지우고,교체하면서 레이아웃을 바꾼다.
+- attribute directives : 존재하는 element의 동작이나 모습을 바꾼다.
 
-### 
+```html
+// structural directives
+<li *ngFor="let item of items"></li>
+<app-item-detail *ngIf="selectedItem"></app-item-detail>
+```
+
+```html
+// attribute directives
+<div [ngStyle]="currentSyltes"></div>
+```
+
+
+| While a component is technically a directive, components are so distinctive and central to Angular applications that this architectural overview separates components from directives.
+
+---
