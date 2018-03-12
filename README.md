@@ -76,8 +76,16 @@ A collection of things I've learned in my journey to becoming an awesome devlope
   - [scope chain and identifier resolution](./js/scope.md) (2018-02-11)
   - [DOM : Document Object Model](./js/dom.md) (2018-02-20)
   - [DOM cheatsheet](./js/dom-cheatsheet.md) (2018-02-25)
+  - [destructuring / rest, spread](./js/destructuring-rest-spread.md) (2018-03-12)
   - [attribute vs property](./js/attribute-property.md) (2018-03-12)
-  - [javascript and typescript class](./js/class.md) (2018-03-12)
+
+- typescript
+  - [typescript basics](./ts-angular/typeScript.md) (2018-03-08)
+  - [javascript and typescript class](./ts-angular/class.md) (2018-03-12)
+  - [interface](./ts-angular/interface.md) (2018-03-12)
+
+-angular
+  - [angular basics](./ts-angular/angular-basic.md) (2018-03-08)
 
 - math
   - [countings](./math/countings.md) (2018-02-12)
