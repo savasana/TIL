@@ -14,6 +14,7 @@ A collection of things I've learned in my journey to becoming an awesome devlope
 - book
   - [book list](./book/book-list.md) 
   - [The Best Interface Is No Interface](./book/the-best-interface-is-no-interface.md) 
+
 - class
   - [FCS lecture 1](./class/lecture01.md) 
   - [FCS lecture 2](./class/lecture02.md) 
@@ -34,6 +35,10 @@ A collection of things I've learned in my journey to becoming an awesome devlope
   - [FCS Javascript lecture 10](./class/js-lecture10.md) (2018-02-23)
   - [FCS Javascript lecture 11](./class/js-lecture11.md) (2018-02-26)
   - [FCS Javascript lecture 12](./class/js-lecture12.md) (2018-02-27)
+  - [FCS Javascript lecture 13](./class/js-lecture13.md) (2018-02-27)
+  - [FCS Javascript lecture 14](./class/js-lecture14.md) (2018-02-27)
+  - [FCS Angular lecture 01](./class/angular-lecture01.md) (2018-03-09)
+  - [FCS Angular lecture 02](./class/angular-lecture02.md) (2018-03-12)
   - [Software engineering lecture 1](./class/se-lecture01.md) (2018-02-09)
 
 - git
@@ -71,6 +76,8 @@ A collection of things I've learned in my journey to becoming an awesome devlope
   - [scope chain and identifier resolution](./js/scope.md) (2018-02-11)
   - [DOM : Document Object Model](./js/dom.md) (2018-02-20)
   - [DOM cheatsheet](./js/dom-cheatsheet.md) (2018-02-25)
+  - [attribute vs property](./js/attribute-property.md) (2018-03-12)
+  - [javascript and typescript class](./js/class.md) (2018-03-12)
 
 - math
   - [countings](./math/countings.md) (2018-02-12)
@@ -87,7 +94,7 @@ A collection of things I've learned in my journey to becoming an awesome devlope
   - [learning math](./tips/learning-math.md) (2018-02-07)
   - [add image to md](./tips/add-image-md.md) (2018-02-08)
 
-- vanilla js
+- javascript30 project
   - [drumkit](https://yogicat.github.io/JavaScript30/01-drumkit/) (2018-02-14)
   - [css js clock](https://yogicat.github.io/JavaScript30/02-clock/) (2018-02-15)
   - [css variable](https://yogicat.github.io/JavaScript30/03-css/) (2018-02-17)
