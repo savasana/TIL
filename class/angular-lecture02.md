@@ -110,7 +110,7 @@ export class AppComponent {
 - `(event)="statement"`
 - statement: 이벤트핸들러를 호출하는 함수 혹은 직접구문입력
 - expression 또한 expression statement이다.
-- statement를 써야하는 곳에는 expression 도 쓸 수 있다. / expression을 써야하는 곳에는 statement 쓸 수 없다.
+- statement를 써야하는 곳에는 expression 도 쓸 수 있다. / 단, expression을 써야하는 곳에는 statement 쓸 수 없다.
 
 ### two-way binding
 - `[(ngModel)]="property"` 
