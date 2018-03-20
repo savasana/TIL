@@ -71,7 +71,7 @@
 - reactive programming 방식
 
 ---
-
+(then대신에 subscribe)
 .sbscribe(
   // 여기에 observer를 정의 해준다.
   value => {
